@@ -12,10 +12,10 @@
       "value_constraint": "connection"
     },
     "GCP_PROJECT": {
-      "label": "GCP Project Name"
+      "label": "oredata-de-cirrus"
     },
     "REPORTING_DATASET": {
-      "label": "Reporting Dataset Name"
+      "label": "cortex_sap_looker"
     },
      "CLIENT": {
       "label": "SAP Client ID"
@@ -30,5 +30,5 @@
             "connection_constant": "CONNECTION_NAME"
         }
     ]
-  
+
 }
